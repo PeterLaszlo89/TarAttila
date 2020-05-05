@@ -59,19 +59,20 @@
     font-size: 32px;
     color: white;
     display: flexbox;
-    padding: 4rem;
+    padding: 3rem;
     margin-left: 2rem;
     vertical-align: bottom;
     padding-top: 400px;
   }
   @media (max-width: 400px) {
     .biography {
+      width: 10rem;
       font-size: 18px;
       color: white;
       display: flexbox;
-      padding: 1rem;
-      margin-left: 1rem;
-        
+      margin-left: 2rem;
+      vertical-align: bottom;
+      padding-top: 300px;     
     }
   }
     @media (max-width: 500px) {
@@ -80,7 +81,9 @@
         color: white;
         display: flexbox;
         padding: 1rem;
-        margin-left: 1rem;
+        margin-left: 4rem;
+        vertical-align: bottom;
+        padding-top: 300px;
       }
   }
   @media (max-width: 400px) {

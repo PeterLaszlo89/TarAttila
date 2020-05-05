@@ -207,7 +207,6 @@ opacity: 0.5;
     margin:0 auto;
   }
 }
-
 @media (max-width: 800px) {
   .exhibitions2 p,.exhibitions3 p{
     position: relative;
@@ -222,7 +221,6 @@ opacity: 0.5;
 .exdates{
   color:#525252;
 }
-
 .navbar {
 position: fixed;
 background-color: var(--bg-primary);
